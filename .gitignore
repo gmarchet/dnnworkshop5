@@ -2,3 +2,5 @@
 labs/.DS_Store
 .DS_Store
 labs/3.Segmentation/.ipynb_checkpoints/mask_rcnn-checkpoint.ipynb
+labs/2.Transfer_learning/.ipynb_checkpoints/2.transfer_learning-checkpoint.ipynb
+labs/3.Segmentation/mask_rcnn_coco.h5
